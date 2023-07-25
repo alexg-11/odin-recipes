@@ -2,3 +2,11 @@ h3 {
     color: blueviolet;
     background-color: beige;
 }
+
+h1, h3 {
+    text-align: center;
+}
+
+.description {
+    font-style: italic;
+}
